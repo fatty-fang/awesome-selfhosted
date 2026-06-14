@@ -15,100 +15,102 @@ See [Contributing](#contributing).
 ## Table of contents
 
 - [Software](#software)
-  - [Analytics](#analytics) 分析
-  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp) 归档与数字保存
-  - [Automation](#automation)  自动化
+  - [Analytics](#analytics) - 分析
+  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp) - 归档与数字保存
+  - [Automation](#automation)  - 自动化
   - [Backup](#backup) 备份
-  - [Blogging Platforms](#blogging-platforms) 博客平台
-  - [Booking and Scheduling](#booking-and-scheduling) 预订与日程安排
-  - [Bookmarks and Link Sharing]书签与链接分享(#bookmarks-and-link-sharing)
-  - [Calendar & Contacts]日历与联系人(#calendar--contacts)
-  - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
-  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions)
-  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents)
-  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents)
-  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters)
-  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients)
-  - [Communication - IRC](#communication---irc)
-  - [Communication - SIP](#communication---sip)
-  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums)
-  - [Communication - Video Conferencing](#communication---video-conferencing)
-  - [Communication - XMPP - Servers](#communication---xmpp---servers)
-  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients)
-  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa)
-  - [Conference Management](#conference-management)
-  - [Content Management Systems (CMS)](#content-management-systems-cms)
-  - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
-  - [Database Management](#database-management)
-  - [DNS](#dns)
-  - [Document Management](#document-management)
-  - [Document Management - E-books](#document-management---e-books)
-  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software)
-  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils)
-  - [E-commerce](#e-commerce)
-  - [Federated Identity & Authentication](#federated-identity--authentication)
-  - [Feed Readers](#feed-readers)
-  - [File Transfer & Synchronization](#file-transfer--synchronization)
-  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems)
-  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers)
-  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing)
-  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload)
-  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers)
-  - [Games](#games)
-  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels)
-  - [Genealogy](#genealogy)
-  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai)
-  - [Groupware](#groupware)
-  - [Health and Fitness](#health-and-fitness)
-  - [Human Resources Management (HRM)](#human-resources-management-hrm)
-  - [Identity Management](#identity-management)
-  - [Internet of Things (IoT)](#internet-of-things-iot)
-  - [Inventory Management](#inventory-management)
-  - [Knowledge Management Tools](#knowledge-management-tools)
-  - [Learning and Courses](#learning-and-courses)
-  - [Manufacturing](#manufacturing)
-  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps)
-  - [Media Management](#media-management)
-  - [Media Streaming](#media-streaming)
-  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming)
-  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming)
-  - [Media Streaming - Video Streaming](#media-streaming---video-streaming)
-  - [Miscellaneous](#miscellaneous)
-  - [Money, Budgeting & Management](#money-budgeting--management)
-  - [Monitoring & Status Pages](#monitoring--status-pages)
-  - [Network Utilities](#network-utilities)
-  - [Note-taking & Editors](#note-taking--editors)
-  - [Office Suites](#office-suites)
-  - [Password Managers](#password-managers)
-  - [Pastebins](#pastebins)
-  - [Personal Dashboards](#personal-dashboards)
-  - [Photo Galleries](#photo-galleries)
-  - [Polls and Events](#polls-and-events)
-  - [Proxy](#proxy)
-  - [Recipe Management](#recipe-management)
-  - [Remote Access](#remote-access)
-  - [Resource Planning](#resource-planning)
-  - [Search Engines](#search-engines)
-  - [Self-hosting Solutions](#self-hosting-solutions)
-  - [Software Development](#software-development)
-  - [Software Development - API Management](#software-development---api-management)
-  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
-  - [Software Development - FaaS & Serverless](#software-development---faas--serverless)
-  - [Software Development - Feature Toggle](#software-development---feature-toggle)
-  - [Software Development - IDE & Tools](#software-development---ide--tools)
-  - [Software Development - Localization](#software-development---localization)
-  - [Software Development - Low Code](#software-development---low-code)
-  - [Software Development - Project Management](#software-development---project-management)
-  - [Software Development - Testing](#software-development---testing)
-  - [Static Site Generators](#static-site-generators)
-  - [Task Management & To-do Lists](#task-management--to-do-lists)
-  - [Ticketing](#ticketing)
-  - [Time Tracking](#time-tracking)
-  - [URL Shorteners](#url-shorteners)
-  - [Video Surveillance](#video-surveillance)
-  - [VPN](#vpn)
-  - [Web Servers](#web-servers)
-  - [Wikis](#wikis)
+  - [Blogging Platforms](#blogging-platforms) - 博客平台
+  - [Booking and Scheduling](#booking-and-scheduling) - 预订与日程安排
+  - [Bookmarks and Link Sharing](#bookmarks-and-link-sharing) - 书签与链接分享
+  - [Calendar & Contacts](#calendar--contacts) - 日历与联系人
+  - [Communication - Custom Communication Systems](#communication---custom-communication-systems) - 通信 - 自定义通信系统
+  - [Communication - Email - Complete Solutions](#communication---email---complete-solutions) - 通信 - 电子邮件 - 完整解决方案
+  - [Communication - Email - Mail Delivery Agents](#communication---email---mail-delivery-agents) - 通信 - 电子邮件 - 邮件投递代理
+  - [Communication - Email - Mail Transfer Agents](#communication---email---mail-transfer-agents) - 通信 - 电子邮件 - 邮件传输代理
+  - [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters) - 通信 - 电子邮件 - 邮件列表与新闻通讯
+  - [Communication - Email - Webmail Clients](#communication---email---webmail-clients) - 通信 - 电子邮件 - 网页邮件客户端
+  - [Communication - IRC](#communication---irc) - 通信 - IRC
+  - [Communication - SIP](#communication---sip) - 通信 - SIP
+  - [Communication - Social Networks and Forums](#communication---social-networks-and-forums) - 通信 - 社交网络与论坛
+  - [Communication - Video Conferencing](#communication---video-conferencing) - 通信 - 视频会议
+  - [Communication - XMPP - Servers](#communication---xmpp---servers) - 通信 - XMPP - 服务器
+  - [Communication - XMPP - Web Clients](#communication---xmpp---web-clients) - 通信 - XMPP - 网页客户端
+  - [Community-Supported Agriculture (CSA)](#community-supported-agriculture-csa) - 社区支持农业
+  - [Conference Management](#conference-management) - 会议管理
+  - [Content Management Systems (CMS)](#content-management-systems-cms) - 内容管理系统
+  - [Customer Relationship Management (CRM)](#customer-relationship-management-crm) - 客户关系管理
+  - [Database Management](#database-management) - 数据库管理
+  - [DNS](#dns) - DNS
+  - [Document Management](#document-management) - 文档管理
+  - [Document Management - E-books](#document-management---e-books) - 文档管理 - 电子书
+  - [Document Management - Institutional Repository and Digital Library Software](#document-management---institutional-repository-and-digital-library-software) - 文档管理 - 机构仓储与数字图书馆软件
+
+
+  - [Document Management - Integrated Library Systems (ILS)](#document-management---integrated-library-systems-ils) - 文档管理 - 集成图书馆系统
+  - [E-commerce](#e-commerce) - 电子商务
+  - [Federated Identity & Authentication](#federated-identity--authentication) - 联合身份与认证
+  - [Feed Readers](#feed-readers) - 订阅源阅读器
+  - [File Transfer & Synchronization](#file-transfer--synchronization) - 文件传输与同步
+  - [File Transfer - Distributed Filesystems](#file-transfer---distributed-filesystems) - 文件传输 - 分布式文件系统
+  - [File Transfer - Object Storage & File Servers](#file-transfer---object-storage--file-servers) - 文件传输 - 对象存储与文件服务器
+  - [File Transfer - Peer-to-peer Filesharing](#file-transfer---peer-to-peer-filesharing) - 文件传输 - 点对点文件共享
+  - [File Transfer - Single-click & Drag-n-drop Upload](#file-transfer---single-click--drag-n-drop-upload) - 文件传输 - 单击与拖拽上传
+  - [File Transfer - Web-based File Managers](#file-transfer---web-based-file-managers) - 文件传输 - 基于网页的文件管理器
+  - [Games](#games) - 游戏
+  - [Games - Administrative Utilities & Control Panels](#games---administrative-utilities--control-panels) - 游戏 - 管理工具与控制面板
+  - [Genealogy](#genealogy) - 家谱学
+  - [Generative Artificial Intelligence (GenAI)](#generative-artificial-intelligence-genai) - 生成式人工智能
+  - [Groupware](#groupware)  - 群件
+  - [Health and Fitness](#health-and-fitness) - 健康与健身
+  - [Human Resources Management (HRM)](#human-resources-management-hrm) - 人力资源管理
+  - [Identity Management](#identity-management) - 身份管理
+  - [Internet of Things (IoT)](#internet-of-things-iot) - 物联网
+  - [Inventory Management](#inventory-management) - 库存管理
+  - [Knowledge Management Tools](#knowledge-management-tools) - 知识管理工具
+  - [Learning and Courses](#learning-and-courses) - 学习与课程
+  - [Manufacturing](#manufacturing) - 制造业
+  - [Maps and Global Positioning System (GPS)](#maps-and-global-positioning-system-gps) - 地图与全球定位系统
+  - [Media Management](#media-management) - 媒体管理
+  - [Media Streaming](#media-streaming) - 媒体流媒体
+  - [Media Streaming - Audio Streaming](#media-streaming---audio-streaming) - 媒体流媒体 - 音频流媒体
+  - [Media Streaming - Multimedia Streaming](#media-streaming---multimedia-streaming) - 媒体流媒体 - 多媒体流媒体
+  - [Media Streaming - Video Streaming](#media-streaming---video-streaming) - 媒体流媒体 - 视频流媒体
+  - [Miscellaneous](#miscellaneous) - 杂项
+  - [Money, Budgeting & Management](#money-budgeting--management) - 金钱、预算与管理
+  - [Monitoring & Status Pages](#monitoring--status-pages) - 监控与状态页面
+  - [Network Utilities](#network-utilities) - 网络工具
+  - [Note-taking & Editors](#note-taking--editors) - 笔记与编辑器
+  - [Office Suites](#office-suites) - 办公套件
+  - [Password Managers](#password-managers) - 密码管理器
+  - [Pastebins](#pastebins) - 粘贴箱
+  - [Personal Dashboards](#personal-dashboards) - 个人仪表盘
+  - [Photo Galleries](#photo-galleries) - 相册
+  - [Polls and Events](#polls-and-events) - 投票与活动
+  - [Proxy](#proxy) - 代理
+  - [Recipe Management](#recipe-management) - 食谱管理
+  - [Remote Access](#remote-access) - 远程访问
+  - [Resource Planning](#resource-planning) - 资源规划
+  - [Search Engines](#search-engines) - 搜索引擎
+  - [Self-hosting Solutions](#self-hosting-solutions) - 自托管解决方案
+  - [Software Development](#software-development) - 软件开发
+  - [Software Development - API Management](#software-development---api-management) - 软件开发 - API管理
+  - [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment) - 软件开发 - 持续集成与部署
+  - [Software Development - FaaS & Serverless](#software-development---faas--serverless) - 软件开发 - 函数即服务与无服务器
+  - [Software Development - Feature Toggle](#software-development---feature-toggle) - 软件开发 - 特性开关
+  - [Software Development - IDE & Tools](#software-development---ide--tools) - 软件开发 - 集成开发环境与工具
+  - [Software Development - Localization](#software-development---localization) - 软件开发 - 本地化
+  - [Software Development - Low Code](#software-development---low-code) - 软件开发 - 低代码
+  - [Software Development - Project Management](#software-development---project-management) - 软件开发 - 项目管理
+  - [Software Development - Testing](#software-development---testing) - 软件开发 - 测试
+  - [Static Site Generators](#static-site-generators) - 静态站点生成器
+  - [Task Management & To-do Lists](#task-management--to-do-lists) - 任务管理与待办事项清单
+  - [Ticketing](#ticketing) - 工单系统
+  - [Time Tracking](#time-tracking) - 时间追踪
+  - [URL Shorteners](#url-shorteners) - URL缩短器
+  - [Video Surveillance](#video-surveillance) - 视频监控
+  - [VPN](#vpn) - VPN 
+  - [Web Servers](#web-servers) - Web服务器
+  - [Wikis](#wikis) - Wiki
 - [List of Licenses](#list-of-licenses)
 - [Anti-features](#anti-features)
 - [External Links](#external-links)
