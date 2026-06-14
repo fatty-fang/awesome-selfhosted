@@ -15,12 +15,12 @@ See [Contributing](#contributing).
 ## Table of contents
 
 - [Software](#software)
-  - [Analytics]分析(#analytics)
-  - [Archiving and Digital Preservation (DP)]归档与数字保存(#archiving-and-digital-preservation-dp)
-  - [Automation]自动化(#automation) 
-  - [Backup]备份(#backup)
-  - [Blogging Platforms]博客平台(#blogging-platforms)
-  - [Booking and Scheduling]预订与日程安排(#booking-and-scheduling)
+  - [Analytics](#analytics) 分析
+  - [Archiving and Digital Preservation (DP)](#archiving-and-digital-preservation-dp) 归档与数字保存
+  - [Automation](#automation)  自动化
+  - [Backup](#backup) 备份
+  - [Blogging Platforms](#blogging-platforms) 博客平台
+  - [Booking and Scheduling](#booking-and-scheduling) 预订与日程安排
   - [Bookmarks and Link Sharing]书签与链接分享(#bookmarks-and-link-sharing)
   - [Calendar & Contacts]日历与联系人(#calendar--contacts)
   - [Communication - Custom Communication Systems](#communication---custom-communication-systems)
